@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129437374068",
+    "project_id": "e-garage-8d893",
+    "storage_bucket": "e-garage-8d893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129437374068:android:38389c26f7019f5153e321",
+        "android_client_info": {
+          "package_name": "com.dss.e_garage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129437374068-4krk7subi57gpfi5faevr5bqfemuesc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uHw4smXFYIwxLiFqCQGhJOKQXp808qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129437374068-4krk7subi57gpfi5faevr5bqfemuesc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
